@@ -63,4 +63,4 @@ RIGHT ARROW FF    "NEC","Bits":32,"Data":"0x10EF6C93"
 DVD MENU          "NEC","Bits":32,"Data":"0x10EF44BB"
 TEXT              "NEC","Bits":32,"Data":"0x10EF20DF"
 SUBTITLE          "NEC","Bits":32,"Data":"0x10EF12ED"
-GUIDE
+GUIDE             "NEC","Bits":32,"Data":"0x10EF629D"
